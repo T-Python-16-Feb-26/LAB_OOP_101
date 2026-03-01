@@ -3,12 +3,12 @@
 from panda import Panda
 
 # Create 4 Panda objects
-panda1 = Panda("Po", 5, 100, "Black & White")
-panda2 = Panda("Ling", 3, 80, "Black & White")
-panda3 = Panda("Mei", 4, 90, "Black & White")
-panda4 = Panda("Bao", 2, 70, "Black & White")
+panda1 = Panda("Teddy", 5, 100, "Black & White")
+panda2 = Panda("Bear", 3, 80, "Black & White")
+panda3 = Panda("Snowy", 4, 90, "Black & White")
+panda4 = Panda("Fluffy", 2, 70, "Black & White")
 
-# Print 1 attribute value (example: name)
+# Print 1 attribute value (name)
 print(panda1.name)
 print(panda2.name)
 print(panda3.name)
